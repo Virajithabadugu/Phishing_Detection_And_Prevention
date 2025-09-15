@@ -12,8 +12,8 @@ PhishGuard is a web application that helps users detect phishing, malware, and s
 ## How to Use
 1. **Clone or Download the Repository**
    ```sh
-   git clone <your-repo-url>
-   cd project-bolt-sb1-q7pntnfd/project
+   git clone https://github.com/Virajithabadugu/Phishing_Detection_And_Prevention.git
+   cd project
    ```
 2. **Install Dependencies**
    ```sh
